@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IKIOTIMI
 
 [Document4]
-DocumentPath=TestAltiumProject1.BomDoc
+DocumentPath=STM8Clock.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
