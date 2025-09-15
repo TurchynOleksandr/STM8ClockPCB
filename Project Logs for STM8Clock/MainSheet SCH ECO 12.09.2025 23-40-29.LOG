@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=DS Old Footprint=CUI_UJC-HP-3-SMT-TR New Footprint=HDSP-B4
+Change Component Comment: Designator=DS Old Comment=DS3231S New Comment=HDSP-B47G
+Change Component Comment: Designator=SW1 Old Comment=SWButton New Comment=SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGAKE010)
+Change Component Comment: Designator=SW2 Old Comment=SWButton New Comment=SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGAKE010)
+Change Component Comment: Designator=J1 Old Comment=USBTypeC New Comment=USB Type-C

@@ -1,0 +1,5 @@
+Change Component Comment: Designator=STM Old Comment=STM8S103F3 New Comment=STM8S103F3P6
+Change Component Comment: Designator=SW1 Old Comment=SWButton New Comment=SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGAKE010)
+Change Pin Designator/Name:  Old Designator=SW1-2 Old Name=A1 New Designator =B0 New Name=3
+Change Pin Designator/Name:  Old Designator=SW1-3 Old Name=B0 New Designator =A1 New Name=2
+Change Pin Designator/Name:  Old Designator=SW1-4 Old Name=B1 New Designator =A0 New Name=1
