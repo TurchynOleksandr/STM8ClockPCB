@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=Ds1 NewDesignator=DS
+Change Component Designator: OldDesignator=STM1 NewDesignator=STM
+Change Pin Designator/Name:  Old Designator=C1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C1-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C2-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C5-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C5-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C6-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C6-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C7-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C7-2 Old Name=2 New Designator =1 New Name=1
