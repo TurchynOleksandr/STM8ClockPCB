@@ -1,0 +1,146 @@
+Add Pin To Net: Unknown Pin: Pin BAT1-N
+Add Pin To Net: Unknown Pin: Pin BAT1-P
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D1-3
+Add Pin To Net: Unknown Pin: Pin D1-4
+Add Pin To Net: Unknown Pin: Pin D1-5
+Add Pin To Net: Unknown Pin: Pin D1-6
+Add Pin To Net: Unknown Pin: Pin D1-7
+Add Pin To Net: Unknown Pin: Pin D1-8
+Add Pin To Net: Unknown Pin: Pin D1-9
+Add Pin To Net: Unknown Pin: Pin D1-10
+Add Pin To Net: Unknown Pin: Pin D1-11
+Add Pin To Net: Unknown Pin: Pin D1-12
+Add Pin To Net: Unknown Pin: Pin DS-1
+Add Pin To Net: Unknown Pin: Pin DS-2
+Add Pin To Net: Unknown Pin: Pin DS-3
+Add Pin To Net: Unknown Pin: Pin DS-5
+Add Pin To Net: Unknown Pin: Pin DS-6
+Add Pin To Net: Unknown Pin: Pin DS-7
+Add Pin To Net: Unknown Pin: Pin DS-8
+Add Pin To Net: Unknown Pin: Pin DS-9
+Add Pin To Net: Unknown Pin: Pin DS-10
+Add Pin To Net: Unknown Pin: Pin DS-11
+Add Pin To Net: Unknown Pin: Pin DS-12
+Add Pin To Net: Unknown Pin: Pin DS-13
+Add Pin To Net: Unknown Pin: Pin DS-14
+Add Pin To Net: Unknown Pin: Pin DS-16
+Add Pin To Net: Unknown Pin: Pin J1-A9
+Add Pin To Net: Unknown Pin: Pin J1-A12
+Add Pin To Net: Unknown Pin: Pin J1-B9
+Add Pin To Net: Unknown Pin: Pin J1-B12
+Add Pin To Net: Unknown Pin: Pin J1-S1
+Add Pin To Net: Unknown Pin: Pin J1-S2
+Add Pin To Net: Unknown Pin: Pin J1-S3
+Add Pin To Net: Unknown Pin: Pin J1-S4
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin STM-1
+Add Pin To Net: Unknown Pin: Pin STM-2
+Add Pin To Net: Unknown Pin: Pin STM-7
+Add Pin To Net: Unknown Pin: Pin STM-8
+Add Pin To Net: Unknown Pin: Pin STM-9
+Add Pin To Net: Unknown Pin: Pin STM-11
+Add Pin To Net: Unknown Pin: Pin STM-12
+Add Pin To Net: Unknown Pin: Pin STM-13
+Add Pin To Net: Unknown Pin: Pin STM-17
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Add Pin To Net: Unknown Pin: Pin SW2-1
+Add Pin To Net: Unknown Pin: Pin SW2-2
+Add Pin To Net: Unknown Pin: Pin SW2-4
+Add Pin To Net: Unknown Pin: Pin T1-2
+Add Pin To Net: Unknown Pin: Pin T1-3
+Add Pin To Net: Unknown Pin: Pin T1-4
+Add Pin To Net: Unknown Pin: Pin T1-5
+Add Pin To Net: Unknown Pin: Pin T1-6
+Add Pin To Net: Unknown Pin: Pin T1-7
+Add Pin To Net: Unknown Pin: Pin T1-8
+Add Pin To Net: Unknown Pin: Pin T1-9
+Add Pin To Net: Unknown Pin: Pin T1-12
+Add Pin To Net: Unknown Pin: Pin T1-13
+Add Pin To Net: Unknown Pin: Pin T1-14
+Add Pin To Net: Unknown Pin: Pin T1-15
+Add Pin To Net: Unknown Pin: Pin T1-16
+Add Pin To Net: Unknown Pin: Pin T1-17
+Add Pin To Net: Unknown Pin: Pin T1-18
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Class Member: Failed to add class member : Component BAT1 CR2032
+Add Class Member: Failed to add class member : Component C1 100p
+Add Class Member: Failed to add class member : Component C2 100p
+Add Class Member: Failed to add class member : Component C3 100u
+Add Class Member: Failed to add class member : Component C4 0.1u
+Add Class Member: Failed to add class member : Component C5 0.1u
+Add Class Member: Failed to add class member : Component C6 10u
+Add Class Member: Failed to add class member : Component C7 22u
+Add Class Member: Failed to add class member : Component C8 1u
+Add Class Member: Failed to add class member : Component D1 Display
+Add Class Member: Failed to add class member : Component DS HDSP-B47G
+Add Class Member: Failed to add class member : Component J1 USB Type-C
+Add Class Member: Failed to add class member : Component Q1 BSS138
+Add Class Member: Failed to add class member : Component Q2 BSS138
+Add Class Member: Failed to add class member : Component R1 1k
+Add Class Member: Failed to add class member : Component R2 1k
+Add Class Member: Failed to add class member : Component R3 10k
+Add Class Member: Failed to add class member : Component R4 10k
+Add Class Member: Failed to add class member : Component R5 10k
+Add Class Member: Failed to add class member : Component R6 10k
+Add Class Member: Failed to add class member : Component R7 1k
+Add Class Member: Failed to add class member : Component R8 1k
+Add Class Member: Failed to add class member : Component R9 10k
+Add Class Member: Failed to add class member : Component R10 10k
+Add Class Member: Failed to add class member : Component R11 10k
+Add Class Member: Failed to add class member : Component R12 10k
+Add Class Member: Failed to add class member : Component STM STM8S103F3P6
+Add Class Member: Failed to add class member : Component SW1 SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGAKE010)
+Add Class Member: Failed to add class member : Component SW2 SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGAKE010)
+Add Class Member: Failed to add class member : Component T1 TM1637
+Add Class Member: Failed to add class member : Component U2 AMS1117

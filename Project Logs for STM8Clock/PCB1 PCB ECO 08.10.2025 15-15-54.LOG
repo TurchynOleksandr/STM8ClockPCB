@@ -1,0 +1,177 @@
+Added Component: Designator=BAT1(BAT_1072)
+Added Component: Designator=C1(CAPRR2250W100L2700T1050H1900)
+Added Component: Designator=C2(CAPRR2250W100L2700T1050H1900)
+Added Component: Designator=C3(CAPRR2250W100L2700T1050H1900)
+Added Component: Designator=C4(CAPRR2250W100L2700T1050H1900)
+Added Component: Designator=C5(CAPRR2250W100L2700T1050H1900)
+Added Component: Designator=C6(CAPRR2250W100L2700T1050H1900)
+Added Component: Designator=C7(CAPRR2250W100L2700T1050H1900)
+Added Component: Designator=C8(CAPRR2250W100L2700T1050H1900)
+Added Component: Designator=D1(HDSP-B4)
+Added Component: Designator=DS(HDSP-B4)
+Added Component: Designator=J1(CUI_UJC-HP-3-SMT-TR)
+Added Component: Designator=Q1(SOT95P240X111-3N)
+Added Component: Designator=Q2(SOT95P240X111-3N)
+Added Component: Designator=R1(Resistor)
+Added Component: Designator=R2(Resistor)
+Added Component: Designator=R3(Resistor)
+Added Component: Designator=R4(Resistor)
+Added Component: Designator=R5(Resistor)
+Added Component: Designator=R6(Resistor)
+Added Component: Designator=R7(Resistor)
+Added Component: Designator=R8(Resistor)
+Added Component: Designator=R9(Resistor)
+Added Component: Designator=R10(Resistor)
+Added Component: Designator=R11(Resistor)
+Added Component: Designator=R12(Resistor)
+Added Component: Designator=STM(SOP65P640X120-20N)
+Added Component: Designator=SW1(SW4-SMD-5.2X5.2X1.5MM)
+Added Component: Designator=SW2(SW4-SMD-5.2X5.2X1.5MM)
+Added Component: Designator=T1(DIP778W43P254L2612H431Q20N)
+Added Component: Designator=U2(SOT229P700X180-4N)
+Added Pin To Net: NetName=GND Pin=BAT1-N
+Added Pin To Net: NetName=NetBAT1_P Pin=BAT1-P
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+5 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+3.3 V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+5 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=+3.3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_5 Pin=D1-5
+Added Pin To Net: NetName=NetD1_6 Pin=D1-6
+Added Pin To Net: NetName=NetD1_7 Pin=D1-7
+Added Pin To Net: NetName=NetD1_8 Pin=D1-8
+Added Pin To Net: NetName=NetD1_9 Pin=D1-9
+Added Pin To Net: NetName=NetD1_10 Pin=D1-10
+Added Pin To Net: NetName=NetD1_11 Pin=D1-11
+Added Pin To Net: NetName=NetD1_12 Pin=D1-12
+Added Pin To Net: NetName=NetDS_1 Pin=DS-1
+Added Pin To Net: NetName=+3.3 V Pin=DS-2
+Added Pin To Net: NetName=NetDS_3 Pin=DS-3
+Added Pin To Net: NetName=GND Pin=DS-5
+Added Pin To Net: NetName=GND Pin=DS-6
+Added Pin To Net: NetName=GND Pin=DS-7
+Added Pin To Net: NetName=GND Pin=DS-8
+Added Pin To Net: NetName=GND Pin=DS-9
+Added Pin To Net: NetName=GND Pin=DS-10
+Added Pin To Net: NetName=GND Pin=DS-11
+Added Pin To Net: NetName=GND Pin=DS-12
+Add Pin To Net: Unknown Pin: Pin DS-13
+Add Pin To Net: Unknown Pin: Pin DS-14
+Add Pin To Net: Unknown Pin: Pin DS-16
+Added Pin To Net: NetName=+5 Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=+5 Pin=J1-B9
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4
+Added Pin To Net: NetName=+3.3 V Pin=Q1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=+3.3 V Pin=Q2-1
+Added Pin To Net: NetName=NetC2_1 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=+3.3 V Pin=R1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=+3.3 V Pin=R2-2
+Added Pin To Net: NetName=NetDS_16 Pin=R3-1
+Added Pin To Net: NetName=+3.3 V Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=+3.3 V Pin=R4-2
+Added Pin To Net: NetName=NetDS_1 Pin=R5-1
+Added Pin To Net: NetName=+3.3 V Pin=R5-2
+Added Pin To Net: NetName=NetDS_3 Pin=R6-1
+Added Pin To Net: NetName=+3.3 V Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=+5 Pin=R9-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R9-2
+Added Pin To Net: NetName=+3.3 V Pin=R10-1
+Added Pin To Net: NetName=NetC1_1 Pin=R10-2
+Added Pin To Net: NetName=+5 Pin=R11-1
+Added Pin To Net: NetName=NetQ2_3 Pin=R11-2
+Added Pin To Net: NetName=+3.3 V Pin=R12-1
+Added Pin To Net: NetName=NetC2_1 Pin=R12-2
+Added Pin To Net: NetName=NetC2_1 Pin=STM-1
+Added Pin To Net: NetName=NetC1_1 Pin=STM-2
+Added Pin To Net: NetName=GND Pin=STM-7
+Added Pin To Net: NetName=NetC8_1 Pin=STM-8
+Added Pin To Net: NetName=+3.3 Pin=STM-9
+Added Pin To Net: NetName=NetR4_1 Pin=STM-11
+Added Pin To Net: NetName=NetDS_16 Pin=STM-12
+Added Pin To Net: NetName=NetSTM_13 Pin=STM-13
+Added Pin To Net: NetName=NetSTM_17 Pin=STM-17
+Added Pin To Net: NetName=NetSTM_13 Pin=SW1-1
+Added Pin To Net: NetName=NetR7_2 Pin=SW1-2
+Added Pin To Net: NetName=+3.3 Pin=SW1-4
+Added Pin To Net: NetName=NetSTM_17 Pin=SW2-1
+Added Pin To Net: NetName=NetR8_2 Pin=SW2-2
+Added Pin To Net: NetName=+3.3 Pin=SW2-4
+Added Pin To Net: NetName=NetD1_11 Pin=T1-2
+Added Pin To Net: NetName=NetD1_7 Pin=T1-3
+Added Pin To Net: NetName=NetD1_4 Pin=T1-4
+Added Pin To Net: NetName=NetD1_2 Pin=T1-5
+Added Pin To Net: NetName=NetD1_1 Pin=T1-6
+Added Pin To Net: NetName=NetD1_10 Pin=T1-7
+Added Pin To Net: NetName=NetD1_5 Pin=T1-8
+Added Pin To Net: NetName=NetD1_3 Pin=T1-9
+Added Pin To Net: NetName=NetD1_6 Pin=T1-12
+Added Pin To Net: NetName=NetD1_8 Pin=T1-13
+Added Pin To Net: NetName=NetD1_9 Pin=T1-14
+Added Pin To Net: NetName=NetD1_12 Pin=T1-15
+Added Pin To Net: NetName=+5 Pin=T1-16
+Added Pin To Net: NetName=NetQ2_3 Pin=T1-17
+Added Pin To Net: NetName=NetQ1_3 Pin=T1-18
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=+3.3 Pin=U2-2
+Added Pin To Net: NetName=+5 Pin=U2-3
+Added Member To Class: ClassName=MainSheet Member=Component BAT1 CR2032
+Added Member To Class: ClassName=MainSheet Member=Component C1 100p
+Added Member To Class: ClassName=MainSheet Member=Component C2 100p
+Added Member To Class: ClassName=MainSheet Member=Component C3 100u
+Added Member To Class: ClassName=MainSheet Member=Component C4 0.1u
+Added Member To Class: ClassName=MainSheet Member=Component C5 0.1u
+Added Member To Class: ClassName=MainSheet Member=Component C6 10u
+Added Member To Class: ClassName=MainSheet Member=Component C7 22u
+Added Member To Class: ClassName=MainSheet Member=Component C8 1u
+Added Member To Class: ClassName=MainSheet Member=Component D1 Display
+Added Member To Class: ClassName=MainSheet Member=Component DS HDSP-B47G
+Added Member To Class: ClassName=MainSheet Member=Component J1 USB Type-C
+Added Member To Class: ClassName=MainSheet Member=Component Q1 BSS138
+Added Member To Class: ClassName=MainSheet Member=Component Q2 BSS138
+Added Member To Class: ClassName=MainSheet Member=Component R1 1k
+Added Member To Class: ClassName=MainSheet Member=Component R2 1k
+Added Member To Class: ClassName=MainSheet Member=Component R3 10k
+Added Member To Class: ClassName=MainSheet Member=Component R4 10k
+Added Member To Class: ClassName=MainSheet Member=Component R5 10k
+Added Member To Class: ClassName=MainSheet Member=Component R6 10k
+Added Member To Class: ClassName=MainSheet Member=Component R7 1k
+Added Member To Class: ClassName=MainSheet Member=Component R8 1k
+Added Member To Class: ClassName=MainSheet Member=Component R9 10k
+Added Member To Class: ClassName=MainSheet Member=Component R10 10k
+Added Member To Class: ClassName=MainSheet Member=Component R11 10k
+Added Member To Class: ClassName=MainSheet Member=Component R12 10k
+Added Member To Class: ClassName=MainSheet Member=Component STM STM8S103F3P6
+Added Member To Class: ClassName=MainSheet Member=Component SW1 SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGAKE010)
+Added Member To Class: ClassName=MainSheet Member=Component SW2 SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGAKE010)
+Added Member To Class: ClassName=MainSheet Member=Component T1 TM1637
+Added Member To Class: ClassName=MainSheet Member=Component U2 AMS1117

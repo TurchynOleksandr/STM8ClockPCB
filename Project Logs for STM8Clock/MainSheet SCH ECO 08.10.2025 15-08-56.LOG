@@ -1,0 +1,9 @@
+Change Component Comment: Designator=R7 Old Comment=10k New Comment=1k
+Change Component Comment: Designator=R8 Old Comment=10k New Comment=1k
+Change Component Comment: Designator=C5 Old Comment=100n New Comment=0.1u
+Change Component Comment: Designator=C6 Old Comment=100n New Comment=10u
+Change Component Comment: Designator=C7 Old Comment=100n New Comment=22u
+Change Component Comment: Designator=U4 Old Comment=DS3231 New Comment=HDSP-B47G
+Change Component Designator: OldDesignator=U1 NewDesignator=STM
+Change Component Designator: OldDesignator=U3 NewDesignator=T1
+Change Component Designator: OldDesignator=U4 NewDesignator=DS
